@@ -3,6 +3,8 @@ A ATOM RCS feed viewer that displays rcs feeds in a modern newspaper like interf
 
 # Usage
 To run the app please download php and then run the command **`php -c . -S localhost:8080`** and then browse to __`http://localhost:8080`__ to access the reader.
+>[!NOTE]
+>You will need to make your own php.ini file. I used AI to make my one.
 
 # Roadmap
 Please see the file [ROADMAP.md](ROADMAP.md) For these details.
